@@ -1,0 +1,27 @@
+PRODUCT Information : 
+TYPE : Cosmatics
+ Name : Eva
+ selling price : 14.0
+ THE Source : elmothda
+ THE availible number : 5
+PRODUCT Information : 
+TYPE : Medical
+ Name : cital
+ selling price : 18.75
+ THE Source : elmothda
+ THE availible number : 2
+Client : 
+ name : said
+ phone_number : 01214548
+ id : 3
+ total product price : 15.9375
+Client : 
+ name : abbas
+ phone_number : 0122545
+ id : 1
+ total product price : 18.75
+Client : 
+ name : Elsafwa
+ phone_number : 0124556
+ id : 2
+ total product price : 0.0
